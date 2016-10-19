@@ -27,3 +27,7 @@
 Will update soon with instructions, and Updates.
 
 Contributers are welcome! Email me at jason.hejna@gmail.com
+
+Contributers are also welcome to improve, and create new 3D models on [thingaverse](http://www.thingiverse.com/thing:1838203)
+
+Thanks!
