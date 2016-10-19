@@ -25,3 +25,5 @@
 >```
 
 Will update soon with instructions, and Updates.
+
+Contributers are welcome! Email me at jason.hejna@gmail.com
